@@ -36,17 +36,17 @@ set_politics = {
 
 set_convoys = 5
 
-#Victor Emmanuel III of Italy after 39
-#create_country_leader = {
-	#name = "King Zog"
-	#desc = "POLITICS_KING_ZOG_DESC"
-	#picture = "Portrait_Albania_King_Zog.dds"
-	#expire = "1965.1.1"
-	#ideology = despotism
-	#traits = {
-		#
-	#}
-#}
+Victor Emmanuel III of Italy after 39
+create_country_leader = {
+	name = "Bill Dewey"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_Beach_City_Bill_Dewey.dds"
+	expire = "2100.1.1"
+	ideology = democratic
+	traits = {
+
+	}
+}
 
 #create_field_marshal = {
 	#name = "Xhemal Aranitasi"
