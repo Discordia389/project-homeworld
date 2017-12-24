@@ -36,7 +36,6 @@ set_politics = {
 
 set_convoys = 5
 
-Victor Emmanuel III of Italy after 39
 create_country_leader = {
 	name = "Bill Dewey"
 	desc = "POLITICS_KING_ZOG_DESC"
